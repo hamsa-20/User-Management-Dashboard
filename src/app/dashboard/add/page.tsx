@@ -977,4 +977,4 @@ export default function AddUserPage() {
       </div>
     </div>
   );
-}
+};
