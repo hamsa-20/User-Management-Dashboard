@@ -7,7 +7,7 @@ import { motion } from 'framer-motion';
 import { Users, UserPlus, ArrowLeft, Search, Filter } from 'lucide-react';
 import { User } from '@/types';
 import { UserCard } from '@/components/UserCard';
-import { SearchFilter } from '@/components/SearchFilter';
+//import { SearchFilter } from '@/components/SearchFilter';
 import { LoadingSpinner } from '@/components/LoadingSpinner';
 import { Button } from '@/components/ui/Button';
 import { ThemeToggle } from '@/components/ThemeToggle';
